@@ -23,7 +23,7 @@ class DataLoader:
 if __name__ == "__main__":
     logging.basicConfig(level=logging.INFO)
 
-    file_path = r"C:\Users\Rasulbek907\Desktop\Project_MP\Data\Preprosessed\Preprosessed.csv"
+    file_path = r"C:\Users\Rasulbek907\Desktop\Project_MP\Data\Sampling_Data\Sampling_SMOTE.csv"
     loader = DataLoader(file_path)
     data = loader.load_dataset()
 
