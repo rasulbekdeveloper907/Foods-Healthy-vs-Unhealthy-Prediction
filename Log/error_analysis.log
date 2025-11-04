@@ -1,0 +1,10 @@
+2025-11-03 17:28:52,100-INFO-Analysis started!
+2025-11-03 17:30:00,090-INFO-Yuklandi: Decision Tree_RFE_Selected_Features.csv
+2025-11-03 17:30:00,111-INFO-Yuklandi: Filtered_Features.csv
+2025-11-03 17:30:00,121-INFO-Yuklandi: Lasso_Feature_Importance.csv
+2025-11-03 17:30:00,144-INFO-Yuklandi: Logistic Regression_RFE_Selected_Features.csv
+2025-11-03 17:30:00,166-INFO-Yuklandi: Random Forest_RFE_Selected_Features.csv
+2025-11-03 17:30:00,175-INFO-Yuklandi: RandomForest_Feature_Importance.csv
+2025-11-03 17:30:00,178-INFO-Umumiy data yuklandi. Shakli: (19996, 18)
+2025-11-03 18:02:07,673-INFO-Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-11-03 18:02:07,684-INFO-Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
